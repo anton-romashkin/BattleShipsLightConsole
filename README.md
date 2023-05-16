@@ -4,4 +4,4 @@ The game begins with each player placing their ships.
 After that, they take turns trying to guess the positions of the opponent's ships.  
 The game ends when one of the players has guessed all of the opponent's ships.  
 
-![Alt text](/ScreenShots/screenshot.jpg?raw=true "BattleShipsConsole")
+![Alt text](/ScreenShots/screenshot1.jpg?raw=true "BattleShipsConsole")
