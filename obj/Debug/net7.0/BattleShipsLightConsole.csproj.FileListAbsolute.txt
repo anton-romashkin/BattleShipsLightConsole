@@ -1,0 +1,15 @@
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.csproj.AssemblyReference.cache
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.AssemblyInfoInputs.cache
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.AssemblyInfo.cs
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.csproj.CoreCompileInputs.cache
+/Users/antonromaskin/Projects/BattleShipsLightConsole/bin/Debug/net7.0/BattleShipsLightConsole
+/Users/antonromaskin/Projects/BattleShipsLightConsole/bin/Debug/net7.0/BattleShipsLightConsole.deps.json
+/Users/antonromaskin/Projects/BattleShipsLightConsole/bin/Debug/net7.0/BattleShipsLightConsole.runtimeconfig.json
+/Users/antonromaskin/Projects/BattleShipsLightConsole/bin/Debug/net7.0/BattleShipsLightConsole.dll
+/Users/antonromaskin/Projects/BattleShipsLightConsole/bin/Debug/net7.0/BattleShipsLightConsole.pdb
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.dll
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/refint/BattleShipsLightConsole.dll
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.pdb
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/BattleShipsLightConsole.genruntimeconfig.cache
+/Users/antonromaskin/Projects/BattleShipsLightConsole/obj/Debug/net7.0/ref/BattleShipsLightConsole.dll
